@@ -38,14 +38,14 @@ formatter.match({
   "location": "Steps.Launch_Browser()"
 });
 formatter.result({
-  "duration": 8323143900,
+  "duration": 7350445300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.title_of_Landing_page()"
 });
 formatter.result({
-  "duration": 22366400,
+  "duration": 22278400,
   "status": "passed"
 });
 formatter.match({
@@ -58,14 +58,14 @@ formatter.match({
   "location": "Steps.Text_On_Landing_Page(String)"
 });
 formatter.result({
-  "duration": 5063644800,
+  "duration": 5064675300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.Enter_Customer_Info()"
 });
 formatter.result({
-  "duration": 2182269900,
+  "duration": 2079124900,
   "status": "passed"
 });
 formatter.scenario({
@@ -85,7 +85,7 @@ formatter.match({
   "location": "Steps.Click_StartOverButton()"
 });
 formatter.result({
-  "duration": 1233910600,
+  "duration": 1203241600,
   "status": "passed"
 });
 formatter.scenario({
@@ -105,7 +105,7 @@ formatter.match({
   "location": "Steps.Loan_Eligibility_OnLivingExpenses_Only()"
 });
 formatter.result({
-  "duration": 1181176100,
+  "duration": 1295991700,
   "status": "passed"
 });
 });

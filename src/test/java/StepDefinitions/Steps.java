@@ -56,8 +56,7 @@ public class Steps {
 		
 	}
 	
-	
-	
+
 	@Given("^Enter Living Expenses Only$")
 	public void Loan_Eligibility_OnLivingExpenses_Only() throws InterruptedException, IOException 
 	{
